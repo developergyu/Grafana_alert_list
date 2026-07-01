@@ -7,7 +7,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ==================== [환경 설정 변수] ====================
-GRAFANA_URL = "https://grafana.com.ezpc.internal"
+GRAFANA_URL = "GRAFANA_URL"
 API_TOKEN = "API_TOKEN"
 # ==========================================================
 
